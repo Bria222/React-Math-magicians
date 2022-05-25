@@ -1,7 +1,6 @@
 import React from 'react';
 import calculate from '../logic/calculate';
-// import calculate from '../logic/calculate';
-// eslint-disable-next-line react/prefer-stateless-function
+
 class Calculator extends React.Component {
   constructor(props) {
     super(props);
