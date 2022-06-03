@@ -1,9 +1,11 @@
 .container {
+  background-color: antiquewhite;
   display: flex;
   flex-direction: column;
   width: 40%;
   height: 440px;
   margin: 40px auto;
+  border-bottom: 1px solid gray;
 }
 
 .display-result {
@@ -12,6 +14,7 @@
   text-align: right;
   color: #fff;
   font-size: 1.5rem;
+  height: 50px;
 }
 
 .grid {
@@ -44,4 +47,26 @@
 
 .div-col {
   background-color: rgb(235, 230, 230);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.4rem;
+  align-items: center;
+}
+
+.header > span {
+  margin-left: 40px;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.header > ul {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  margin-right: 100px;
+  color: blue;
+  text-decoration: underline;
 }
