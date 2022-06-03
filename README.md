@@ -24,7 +24,10 @@ To use the above project you need to meet the following requirements:
 - npm start
 - npm build > for production only
   
+# demo links: 
+heroku (https://math-magiciaans.herokuapp.com/)
 
+netlify: (https://bree-math-magician.netlify.app/)
 
 # 🤵 Author
 👤 **Mr Bree**
