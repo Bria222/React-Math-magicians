@@ -1,6 +1,10 @@
 {
   "name": "react-math-magicians",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.x",
+    "npm": "6.x"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
