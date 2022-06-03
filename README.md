@@ -27,8 +27,29 @@ To use the above project you need to meet the following requirements:
 
 
 # 🤵 Author
+👤 **Mr Bree**
+
 - Github: https://github.com/Bria222
 - Linkedin: https://www.linkedin.com/in/briannyachae/
 - Twitter: https://twitter.com/briannyachae9
   
+👤 **Haji Bamsi**
+
+- GitHub:
+  [@bamsi](https://github.com/bamsi)
+- Twitter: [@bamsi](https://twitter.com/haji-bamsi-17327728/)
+- LinkedIn: [bamsi](https://linkedin.com/in/bamsi)
+
+
+## Acknowledgments
+
+- Hat tip to [Microverse](www.microverse.org) and all the staff
+- Thanks to My coding Partners
+- Thanks to My Morning-session-group and Standup-team Partners and
+- Thanks to Code Reviewers
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+
 ##  Give a ⭐ to show some 🤟
